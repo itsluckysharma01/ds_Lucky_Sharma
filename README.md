@@ -56,9 +56,7 @@ ds_Lucky_Sharma/
 ## 📧 Contact
 
 **Candidate**: Lucky Sharma  
-**Project**: Data Science Internshala Assignment  
+**Project**: Data Science
 **Date**: August 2025
 
----
-
-_This project follows the standard data science workflow with organized file structure for better project management._
+-
